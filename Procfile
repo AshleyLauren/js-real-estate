@@ -1,1 +1,1 @@
-web: node --debug=5858 index.html
+web: node --debug=5858 app/index.html
